@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948157252274",
+    "project_id": "mamco-testfirebase",
+    "storage_bucket": "mamco-testfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948157252274:android:a749250abd5d3051ec3fab",
+        "android_client_info": {
+          "package_name": "mamco.mobile.mamco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948157252274-o7v017fis2e595r0ilu1rrnmf7jao68r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgfoPe6LwHjjAEiC4QaTgId_s2V7aYlpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948157252274-o7v017fis2e595r0ilu1rrnmf7jao68r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
