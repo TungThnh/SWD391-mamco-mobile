@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">948157252274-o7v017fis2e595r0ilu1rrnmf7jao68r.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">948157252274</string>
+    <string name="google_api_key" translatable="false">AIzaSyBgfoPe6LwHjjAEiC4QaTgId_s2V7aYlpg</string>
+    <string name="google_app_id" translatable="false">1:948157252274:android:a749250abd5d3051ec3fab</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBgfoPe6LwHjjAEiC4QaTgId_s2V7aYlpg</string>
+    <string name="google_storage_bucket" translatable="false">mamco-testfirebase.appspot.com</string>
+    <string name="project_id" translatable="false">mamco-testfirebase</string>
+</resources>
